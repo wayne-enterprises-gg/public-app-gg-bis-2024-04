@@ -1,0 +1,9 @@
+import antigravity
+
+SEED=9e70f8be-5621-4352-8442-2886fc0877eb
+
+def main():
+    antigravity.fly()
+
+if __name__ == "__main__":
+    main()
